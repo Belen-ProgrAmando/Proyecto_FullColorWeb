@@ -191,7 +191,7 @@ include 'contacto-footer.php';
 
 		
 	
-<a class="rotate" target="new" href="https://api.whatsapp.com/send?phone=5491155643386&text=Hola!%20Cual%20es%20tu%20Nombre?%20En%20que%20Puedo%20ayudarte?"><img src="imagenes/whatsapp.png" alt="whatsapp" width="100%" height="auto"></a>
+<a class="rotate" target="new" href="https://wa.me/message/WVQCF3XHSUCHH1"><img src="imagenes/whatsapp.png" alt="whatsapp" width="100%" height="auto"></a>
 
 <script
 src="https://code.jquery.com/jquery-3.6.0.min.js"
